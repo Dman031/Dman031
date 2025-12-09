@@ -10,11 +10,11 @@
 AI-powered service request management for State & Local Government.
 **Features:** Now Assist AI | Workflow Automation | Department Routing
 
-### [Oracle Migration Accelerator](https://YOUR-ORACLE-URL.streamlit.app)
+### [Oracle Migration Accelerator](https://oracle-migration-accelerator-krim2vh3ijdpyubmhxv7fj.streamlit.app/)
 Enterprise database migration toolkit with compliance tracking.
 **Features:** Schema Comparison | Data Validation | HIPAA Compliance
 
-### [OCI Infrastructure Console](https://YOUR-OCI-URL.streamlit.app)
+### [OCI Infrastructure Console](https://https://oci-customer-deployment-templates-qdhfnxmuvfhpnnjm7reusa.streamlit.app/)
 Oracle Cloud deployment templates with cost estimation.
 **Features:** Terraform Modules | Multi-Client Dashboard | Cost Analysis
 
