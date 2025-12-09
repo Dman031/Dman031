@@ -32,7 +32,9 @@ Oracle Cloud deployment templates with cost estimation.
 
 *Open to Oracle Consultant, ServiceNow Solution Consultant, and Cloud Architect roles*## Hi there 👋
 
-<!--
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/dwillconsult) | [Email](mailto:derwill503@gmail.com)
 **Dman031/Dman031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
